@@ -1,0 +1,74 @@
+{
+    "info": {
+        "id": "659667",
+        "name": "Barbeque Nation",
+        "cloudinaryImageId": "8b3a3993448aeba5ee8e6f63be94bb60",
+        "locality": "COMMERCIAL CENTRE",
+        "areaName": "Attapur",
+        "costForTwo": "₹600 for two",
+        "cuisines": [
+            "North Indian",
+            "Barbecue",
+            "Biryani",
+            "Kebabs",
+            "Mughlai",
+            "Desserts"
+        ],
+        "avgRating": 3.7,
+        "parentId": "2438",
+        "avgRatingString": "4.7",
+        "totalRatingsString": "100+",
+        "sla": {
+            "deliveryTime": 60,
+            "lastMileTravel": 3.9,
+            "serviceability": "SERVICEABLE",
+            "slaString": "55-60 mins",
+            "lastMileTravelString": "3.9 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2024-06-17 23:30:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "50% OFF",
+            "subHeader": "UPTO ₹100"
+        },
+        "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {}
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+        "context": "seo-data-a867b757-322e-4cea-b5ff-efc5d3a64f25"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/barbeque-nation-commercial-centre-attapur-hyderabad-659667",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}

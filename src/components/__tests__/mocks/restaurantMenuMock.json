@@ -1,0 +1,1766 @@
+{
+    "statusCode": 0,
+    "data": {
+        "statusMessage": "done successfully",
+        "cards": [
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+                        "text": "Sri Mahalaxmi Reddy Brothers Tiffin Center",
+                        "headerStyling": {
+                            "textColor": "text_Highest_Emphasis",
+                            "textVariant": "header_H3_Black"
+                        }
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+                        "tabs": [
+                            {
+                                "id": "Order Online",
+                                "title": "Order Online"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                        "info": {
+                            "id": "579871",
+                            "name": "Sri Mahalaxmi Reddy Brothers Tiffin Center",
+                            "city": "Hyderabad",
+                            "slugs": {
+                                "restaurant": "sri-mahalaxmi-reddy-brothers-tiffin-center-mehdipatnam-mehdipatnam",
+                                "city": "hyderabad"
+                            },
+                            "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+                            "cloudinaryImageId": "ixdhdmfecmuei3lufgv0",
+                            "locality": "Santosh Nagar Colony",
+                            "areaName": "Mehdipatnam",
+                            "costForTwo": "20000",
+                            "costForTwoMessage": "₹200 for two",
+                            "cuisines": [
+                                "South Indian",
+                                "Chinese"
+                            ],
+                            "avgRating": 4.5,
+                            "feeDetails": {
+                                "restaurantId": "579871",
+                                "fees": [
+                                    {
+                                        "name": "TYPE_DISTANCE",
+                                        "fee": 3400
+                                    },
+                                    {
+                                        "name": "TYPE_TIME"
+                                    }
+                                ],
+                                "totalFee": 3400,
+                                "title": "Delivery Charge",
+                                "amount": "3400",
+                                "icon": "v1648635511/Delivery_fee_new_cjxumu",
+                                "message": "<b>2.5 kms</b> | ₹34 Delivery fee will apply"
+                            },
+                            "parentId": "347243",
+                            "avgRatingString": "4.5",
+                            "totalRatingsString": "1K+ ratings",
+                            "sla": {
+                                "restaurantId": "579871",
+                                "deliveryTime": 26,
+                                "minDeliveryTime": 25,
+                                "maxDeliveryTime": 30,
+                                "lastMileTravel": 2.5,
+                                "serviceability": "SERVICEABLE",
+                                "stressFactor": 1,
+                                "rainMode": "RAIN_MODE_NONE",
+                                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                                "zoneId": 153,
+                                "slaString": "25-30 MINS",
+                                "lastMileTravelString": "2.5 km",
+                                "iconType": "ICON_TYPE_EMPTY"
+                            },
+                            "availability": {
+                                "nextCloseTime": "2024-06-19 22:30:00",
+                                "visibility": true,
+                                "opened": true,
+                                "restaurantClosedMeta": {}
+                            },
+                            "aggregatedDiscountInfo": {
+                                "shortDescriptionList": [
+                                    {
+                                        "discountType": "Flat",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "Flat ₹50 off | Above ₹600",
+                                        "discountType": "Flat",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "15% off upto ₹100 |  Use AXISRUPAY Above ₹299",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "visible": true
+                            },
+                            "badges": {},
+                            "slugString": "sri-mahalaxmi-reddy-brothers-tiffin-center-mehdipatnam-mehdipatnam",
+                            "isOpen": true,
+                            "labels": [
+                                {
+                                    "title": "Timings",
+                                    "message": "null"
+                                },
+                                {
+                                    "title": "Address",
+                                    "message": "Door.No.12-2-823/A/25/AA/6, Santosh Nagar Colony, Mehdipatnam, Hyderabad, Mehdipatnam Circle No 12, Hyderabad- Central Zone, telangana-500028"
+                                },
+                                {
+                                    "title": "Cuisines",
+                                    "message": "South Indian,Chinese"
+                                }
+                            ],
+                            "totalRatings": 1000,
+                            "aggregatedDiscountInfoV2": {
+                                "shortDescriptionList": [
+                                    {
+                                        "discountType": "Flat",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "Flat ₹50 off | Above ₹600",
+                                        "discountType": "Flat",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "15% off upto ₹100 |  Use AXISRUPAY Above ₹299",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "couponDetailsCta": "View coupon details"
+                            },
+                            "type": "F",
+                            "headerBanner": {
+                                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/579871"
+                            },
+                            "expectationNotifiers": [
+                                {
+                                    "text": "<b>2.5 kms</b> | ₹34 Delivery fee will apply",
+                                    "icon": {
+                                        "imageId": "v1648635511/Delivery_fee_new_cjxumu"
+                                    },
+                                    "popup": {
+                                        "cta": {}
+                                    },
+                                    "type": "DISTANCE_FEE_NON_FOOD_LM",
+                                    "enrichedText": "<b>2.5 kms</b> | ₹34 Delivery fee will apply",
+                                    "halfCardPopup": {
+                                        "halfCardPopupHeader": {}
+                                    },
+                                    "trailingIcon": {}
+                                }
+                            ],
+                            "ratingSlab": "RATING_SLAB_5",
+                            "orderabilityCommunication": {
+                                "title": {},
+                                "subTitle": {},
+                                "message": {},
+                                "customIcon": {}
+                            },
+                            "hasBestsellerItems": true,
+                            "cartOrderabilityNudgeBanner": {
+                                "parameters": {},
+                                "presentation": {}
+                            },
+                            "latLong": "17.39265420,78.4378285",
+                            "backgroundImageOverlayInfo": {}
+                        },
+                        "analytics": {}
+                    },
+                    "relevance": {
+                        "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+                        "sectionId": "POP_UP_CROUTON_MENU"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                        "layout": {
+                            "rows": 1,
+                            "columns": 2,
+                            "horizontalScrollEnabled": true,
+                            "itemSpacing": 12,
+                            "lineSpacing": 10,
+                            "widgetPadding": {},
+                            "containerStyle": {
+                                "containerPadding": {
+                                    "left": 10,
+                                    "right": 10,
+                                    "bottom": 16
+                                }
+                            },
+                            "scrollBar": {}
+                        },
+                        "id": "offerCollectionWidget_UX4",
+                        "gridElements": {
+                            "infoWithStyle": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                                "offers": [
+                                    {
+                                        "info": {
+                                            "header": "FLAT ₹50 OFF",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/5/31/f71f1df1-bfba-4f4c-88a4-82cccf73fe9e_ici.jpg",
+                                            "offerIds": [
+                                                "55c218f5-5adb-4051-8bcb-96410b716ba6"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "NO CODE REQUIRED",
+                                            "description": "ABOVE ₹600",
+                                            "offerType": "offers",
+                                            "restId": "579871",
+                                            "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/5/31/f71f1df1-bfba-4f4c-88a4-82cccf73fe9e_ici.jpg",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "15% OFF UPTO ₹100",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/6/5/651e359e-ba0a-4e5c-aeb8-2189ea67926f_Axis.png",
+                                            "offerIds": [
+                                                "b26d2d21-1f6c-45a9-927a-1ea38d9360d3"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE AXISRUPAY",
+                                            "description": "ABOVE ₹299",
+                                            "offerType": "offers",
+                                            "restId": "579871",
+                                            "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/6/5/651e359e-ba0a-4e5c-aeb8-2189ea67926f_Axis.png",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    }
+                                ],
+                                "habitMilestoneInfo": {
+                                    "callout": {}
+                                },
+                                "loyaltyDiscoverPresentationInfo": {
+                                    "logoCtx": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "groupedCard": {
+                    "cardGroupMap": {
+                        "REGULAR": {
+                            "cards": [
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                                            "badges": {},
+                                            "vegOnlyDetails": {
+                                                "imageId": "AutoVegOnly_qkjowj",
+                                                "title": "Showing only vegetarian options.",
+                                                "description": "Tap on the VEG ONLY button to turn off the setting"
+                                            },
+                                            "topRatedFilter": {
+                                                "attributes": {
+                                                    "displayText": "Ratings 4.0+"
+                                                }
+                                            },
+                                            "kidsCategoryFilter": {
+                                                "attributes": {
+                                                    "displayText": "Kids Favourites",
+                                                    "tooltip": {
+                                                        "enabled": true,
+                                                        "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                                                    }
+                                                }
+                                            },
+                                            "vegFilter": {
+                                                "attributes": {
+                                                    "displayText": "VEG"
+                                                }
+                                            },
+                                            "nonvegFilter": {
+                                                "attributes": {
+                                                    "displayText": "NONVEG"
+                                                }
+                                            }
+                                        },
+                                        "relevance": {
+                                            "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                                            "sectionId": "MENU_FILTER_TOGGLE"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "TIFFINS MENU",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "96709690",
+                                                            "name": "Idly [ 4 Pcs ]",
+                                                            "category": "TIFFINS MENU",
+                                                            "description": "Super-soft steamed rice cakes made from fermented rice, the perfect start for your day. 4pcs served with Chutney & sambar",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/31/88e9121a-e92b-466f-badc-4042fbc3b64a_c328e440-2f6a-40f6-861a-a7a4b0c403b7.jpeg",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 7000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "1401 ratings",
+                                                                    "ratingCountV2": "1401"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "96709693",
+                                                            "name": "Mysore Bajji [ 4 Pcs ]",
+                                                            "category": "TIFFINS MENU",
+                                                            "description": "Super-crispy bajji, a delicacy from Mysore made with flour, yogurt and spices. 4 pcs served chutney & sambar",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/c6333d1a-dd54-45cd-acaa-460d0c7b4f51_5a75a058-e46b-4d5b-91b3-37ce997fffa9.jpeg",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 6500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "420 ratings",
+                                                                    "ratingCountV2": "420"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334212",
+                                                            "name": "Masala Dosa",
+                                                            "category": "TIFFINS MENU",
+                                                            "description": "Serves 1 | Crispy crepe filled with a tangy potato filling.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/4600123f-7ec7-4118-b32b-bedf118913cb_c946ac8e-c5ad-4b2c-9740-5fa521dcaf4a.jpeg",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 8000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "1256 ratings",
+                                                                    "ratingCountV2": "1256"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "136981401",
+                                                            "name": "Ghee Karam Dosa",
+                                                            "category": "TIFFINS MENU",
+                                                            "description": "Serves 1 | Crispy and thin dosa topped with chutney powder, a generous dousing of fresh ghee, paired with 2 types of chutneys and dry subzi. 1 pc served chutney & sambar",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/543900a1-525b-4cfb-99ea-9d657b0b48f5_beb228b9-a8fb-42e4-af51-116f4cbfce93.jpeg",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "53 ratings",
+                                                                    "ratingCountV2": "53"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334205",
+                                                            "name": "Butter + Paneer Dosa",
+                                                            "category": "TIFFINS MENU",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 11000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "136981408",
+                                                            "name": "Paneer Dosa",
+                                                            "category": "TIFFINS MENU",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/fe51b402-242b-4d2d-a7ea-55768bc19cf4_280ce363-432b-4b04-89ed-a4718f63a241.jpeg",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.6",
+                                                                    "ratingCount": "35 ratings",
+                                                                    "ratingCountV2": "35"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "103784494",
+                                                            "name": "Butter Dosa",
+                                                            "category": "TIFFINS MENU",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/1ee9a04d-9997-4bd6-8b7a-528b3211f712_143cfdd0-5b9f-44f2-808e-1ac69a67d0f4.jpeg",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "85 ratings",
+                                                                    "ratingCountV2": "85"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334222",
+                                                            "name": "Vada",
+                                                            "category": "TIFFINS MENU",
+                                                            "description": "Serves 1 | Crispy and savory, this popular South Indian snack will leave you craving for more.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/0c1004fb-482c-4548-96e6-2f3df051ecde_21ea15fe-442b-4bcb-b77d-7f429e6cb67f.jpeg",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 7000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "635 ratings",
+                                                                    "ratingCountV2": "635"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "96709702",
+                                                            "name": "Uttapam",
+                                                            "category": "TIFFINS MENU",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "5.0",
+                                                                    "ratingCount": "5 ratings",
+                                                                    "ratingCountV2": "5"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "136982720",
+                                                            "name": "Ghee Idly ( 4 Pcs )",
+                                                            "category": "TIFFINS MENU",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/3b0bfa77-5212-4096-b0e5-06864ddbbe56_76302278-5ced-48f4-acfc-da579571b9d1.jpeg",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 8500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "5.0",
+                                                                    "ratingCount": "6 ratings",
+                                                                    "ratingCountV2": "6"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334208",
+                                                            "name": "Ghee Masala Dosa",
+                                                            "category": "TIFFINS MENU",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334210",
+                                                            "name": "Ghee Plain Dosa",
+                                                            "category": "TIFFINS MENU",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/692e1735-b5e6-42ed-bbcd-93706973e4e4_c6139e1f-a9fc-495f-8414-7508e2622076.jpeg",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334206",
+                                                            "name": "Cheese Dosa",
+                                                            "category": "TIFFINS MENU",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334211",
+                                                            "name": "Idly [ 2 Pcs ] + Vada [ 1 Pcs ]",
+                                                            "category": "TIFFINS MENU",
+                                                            "description": "Savory and satisfying South Indian combo of steamed idly and crispy vada.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/cdab4284-6497-4d55-9cf8-72d87fc54cbf_a1ba0467-7fd5-43f0-a4d3-a93689a24e0f.jpeg",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 7000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.6",
+                                                                    "ratingCount": "232 ratings",
+                                                                    "ratingCountV2": "232"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334215",
+                                                            "name": "Onion Dosa",
+                                                            "category": "TIFFINS MENU",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/d23d4c7b-3c54-423f-8e80-d0749ee9beb0_444fb134-c986-4ff6-81c9-b5925a6d1b3d.jpeg",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 8000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "102 ratings",
+                                                                    "ratingCountV2": "102"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334217",
+                                                            "name": "Plain Dosa",
+                                                            "category": "TIFFINS MENU",
+                                                            "description": "Irresistibly crispy dosa cooked to perfection. 1 pc served with chutney and sambhar.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/e0205ece-c690-41a3-9769-7ac151191206_af69b0eb-20d6-4dc6-870c-4dd345c1f5a8.jpg",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 7000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "356 ratings",
+                                                                    "ratingCountV2": "356"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334214",
+                                                            "name": "Mysore Bajji (4 Pcs)",
+                                                            "category": "TIFFINS MENU",
+                                                            "description": "Serves 1 | Super-crispy bajji, a delicacy from Mysore made with flour, yogurt and spices. 4 pcs served chutney & sambar",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 6500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "419 ratings",
+                                                                    "ratingCountV2": "419"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334207",
+                                                            "name": "Chutney Dosa",
+                                                            "category": "TIFFINS MENU",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334209",
+                                                            "name": "Ghee Onion Dosa",
+                                                            "category": "TIFFINS MENU",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334219",
+                                                            "name": "Sambar Idly (2) + Wada (1) (bowl)",
+                                                            "category": "TIFFINS MENU",
+                                                            "isVeg": 1,
+                                                            "price": 8000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334221",
+                                                            "name": "Sambar Wada (bowl) (2 Pcs)",
+                                                            "category": "TIFFINS MENU",
+                                                            "isVeg": 1,
+                                                            "price": 8000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334220",
+                                                            "name": "Sambar Idly (bowl) (4 Pcs)",
+                                                            "category": "TIFFINS MENU",
+                                                            "isVeg": 1,
+                                                            "price": 8000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334213",
+                                                            "name": "Masala Rava Dosa",
+                                                            "category": "TIFFINS MENU",
+                                                            "description": "Tawa- toasted, crispy and delicious dosa, folded in with masala. 1 pc served chutney & sambar",
+                                                            "isVeg": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334216",
+                                                            "name": "Onion Rava Dosa",
+                                                            "category": "TIFFINS MENU",
+                                                            "isVeg": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334218",
+                                                            "name": "Plain Rava Dosa",
+                                                            "category": "TIFFINS MENU",
+                                                            "description": "Irresistibly crispy dosa cooked to perfection. 1 pc served with chutney and sambhar.",
+                                                            "isVeg": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "VEG MENU",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334227",
+                                                            "name": "Veg Manchurian Noodles",
+                                                            "category": "VEG MENU",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/31/4c2311bb-9405-4e00-a359-431ac6f4db29_aabea3f6-742a-4740-bb6f-4994ad17fe2d.jpeg",
+                                                            "isVeg": 1,
+                                                            "price": 10000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "72 ratings",
+                                                                    "ratingCountV2": "72"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334229",
+                                                            "name": "Veg Schezwan Fried Rice",
+                                                            "category": "VEG MENU",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/31/77dc43a5-6c69-4ef4-bc99-591bda4d9070_34e38719-8cd0-430c-9d96-ca0f875f1d12.jpeg",
+                                                            "isVeg": 1,
+                                                            "price": 10000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "136982742",
+                                                            "name": "Veg Schezwan Noodles",
+                                                            "category": "VEG MENU",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/31/eec41319-2457-4c0a-b11f-05a9615b46b4_c9f8aa34-aeea-45e7-a871-d8ea26610bf1.jpeg",
+                                                            "isVeg": 1,
+                                                            "price": 10000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.6",
+                                                                    "ratingCount": "8 ratings",
+                                                                    "ratingCountV2": "8"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "104003176",
+                                                            "name": "Veg Manchuriyan Rice",
+                                                            "category": "VEG MENU",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/5f298d3e-9f44-4ac1-9aa9-e2aa6cb8c428_a314adee-cec1-49e7-addf-277ec440ecb3.jpeg",
+                                                            "isVeg": 1,
+                                                            "price": 10000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.7",
+                                                                    "ratingCount": "62 ratings",
+                                                                    "ratingCountV2": "62"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334224",
+                                                            "name": "Veg Fried Rice",
+                                                            "category": "VEG MENU",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/f8d162b3-fcb0-496f-83b1-bed86064ae27_211e6791-72e8-4309-9810-13493609c459.jpeg",
+                                                            "isVeg": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "101 ratings",
+                                                                    "ratingCountV2": "101"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334228",
+                                                            "name": "Veg Noodles",
+                                                            "category": "VEG MENU",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/c42bed57-3557-46af-929b-8a95e01d907d_c1dedffa-7b18-426f-8ce4-59e5eb70b8db.jpeg",
+                                                            "isVeg": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "85 ratings",
+                                                                    "ratingCountV2": "85"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334225",
+                                                            "name": "Veg Manchurian Dry",
+                                                            "category": "VEG MENU",
+                                                            "description": "A flavorful and crispy vegetable starter with a savory, tangy twist.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/f3760d0c-fab5-47bc-96f8-03d4dc01964c_ab6f8fd4-ab43-46ee-9a80-d46806cd038a.jpeg",
+                                                            "isVeg": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "342 ratings",
+                                                                    "ratingCountV2": "342"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334226",
+                                                            "name": "Veg Manchurian Gravy",
+                                                            "category": "VEG MENU",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/31/46bf5f71-94f6-42db-af45-82358571cd57_f546ae91-2282-4fa1-8ac4-248f4611f0ef.jpeg",
+                                                            "isVeg": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "43 ratings",
+                                                                    "ratingCountV2": "43"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334223",
+                                                            "name": "Jeera Fried Rice",
+                                                            "category": "VEG MENU",
+                                                            "isVeg": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "EGG MENU",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334230",
+                                                            "name": "Egg Schezwan Fried Rice (2 Eggs)",
+                                                            "category": "EGG MENU",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/31/ade1f279-37c9-4a12-863d-1b3ce22c43a1_3e122453-6d87-4486-ad25-f4de796ee957.jpeg",
+                                                            "price": 13000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334231",
+                                                            "name": "Egg Schezwan Noodles (2 Eggs)",
+                                                            "category": "EGG MENU",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/8b44f60e-c3c2-49a1-9966-3e14e0840c92_eabd5813-39d9-4c1a-bd3e-250b6bc09334.jpeg",
+                                                            "price": 13000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334232",
+                                                            "name": "Special Egg Fried Rice",
+                                                            "category": "EGG MENU",
+                                                            "description": "(2 Eggs)",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/31/6a856d0e-4486-4b72-a94c-94c35b92fef4_0959d4b0-7920-4342-9b7e-03c703653cfa.jpeg",
+                                                            "price": 12000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "68 ratings",
+                                                                    "ratingCountV2": "68"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334233",
+                                                            "name": "Special Egg Noodles",
+                                                            "category": "EGG MENU",
+                                                            "description": "(2 Eggs)",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/67e5c2b7-465a-46e7-bebc-ddf951807061_d618147f-2412-46b3-8051-2f5fbe58c400.jpeg",
+                                                            "price": 12000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "50 ratings",
+                                                                    "ratingCountV2": "50"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "CHICKEN MENU",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334235",
+                                                            "name": "Schezwan Chicken Noodles",
+                                                            "category": "CHICKEN MENU",
+                                                            "description": "Chicken + 2 Eggs 500 Gm | Serves 1 | Juicy Chicken And Delectable Noodles Tossed In A Rich Egg-Based Sauce - A Tantalizing Fast Food Option.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/2a5b8c7c-5687-4ddd-bead-8e0a07d7d129_922a4b82-6f4d-4acb-b656-42d86cc8ccec.jpeg",
+                                                            "price": 15000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334234",
+                                                            "name": "Schezwan Chicken Fried Rice",
+                                                            "category": "CHICKEN MENU",
+                                                            "description": "Chicken + 2 Eggs",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/c9f829a4-9c02-4ca7-a3ed-cea6864ab309_93681a1a-4439-4a65-8038-8f8db62d9d31.jpeg",
+                                                            "price": 15000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334236",
+                                                            "name": "Special Chicken Fried Rice",
+                                                            "category": "CHICKEN MENU",
+                                                            "description": "Chicken + 2 Eggs Savory Fried Rice With Succulent Chicken And Scrambled Eggs, Perfect For A Quick And Indulgent Lunch Or Dinner.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/0501d9f8-4947-40fb-8422-f3128ef2241d_d385c323-4fd4-44a7-b004-7b3d341c7921.jpeg",
+                                                            "price": 14000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334237",
+                                                            "name": "Special Chicken Noodles",
+                                                            "category": "CHICKEN MENU",
+                                                            "description": "Chicken + 2 Eggs",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/6/76ef43be-d2d9-445d-a398-f35645f4cc0e_38648d79-55af-4c93-8249-2f1e298f476a.jpeg",
+                                                            "price": 14000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "112 ratings",
+                                                                    "ratingCountV2": "112"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "ROTIS MENU",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334238",
+                                                            "name": "Chapati With Mix Veg Curry",
+                                                            "category": "ROTIS MENU",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/31/78b8ea3a-4d58-49da-a411-6130c12b1210_509823d9-6946-49ce-90e5-417aab3e4b03.jpeg",
+                                                            "isVeg": 1,
+                                                            "price": 8000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "99 ratings",
+                                                                    "ratingCountV2": "99"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "142334239",
+                                                            "name": "Parota With Mix Veg Curry",
+                                                            "category": "ROTIS MENU",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/31/0c8500fb-84c8-4c0f-bb3a-ed1dfac8751a_0826d26c-c90d-4158-b444-d84fb2ace703.jpeg",
+                                                            "isVeg": 1,
+                                                            "price": 8000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:30 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.8",
+                                                                    "ratingCount": "100 ratings",
+                                                                    "ratingCountV2": "100"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                                            "type": "FSSAI",
+                                            "imageId": "fssai_final_edss9i",
+                                            "text": [
+                                                "License No. 13621011001468"
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                                            "name": "Sri Mahalaxmi Reddy Brothers Tiffin Center",
+                                            "area": "Mehdipatnam",
+                                            "completeAddress": "Door.No.12-2-823/A/25/AA/6, Santosh Nagar Colony, Mehdipatnam, Hyderabad, Mehdipatnam Circle No 12, Hyderabad- Central Zone, telangana-500028"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ],
+        "firstOffsetRequest": true,
+        "isQCLink": false
+    },
+    "tid": "617c0bc5-6b27-4a73-b809-93c9c0e4e3ab",
+    "sid": "ehme6f13-0dde-44c3-93c0-4bd54ad6cf3e",
+    "deviceId": "2dbf6163-3903-2973-44d4-3fe2a68aa061",
+    "csrfToken": "RijzxNCbyHDp-cZXs0d_L6Pac4rh1OQUWxuJyogI"
+}
